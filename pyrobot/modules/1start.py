@@ -6,7 +6,7 @@ ALIVE = "`I'm alive, Master :3`"
 HELP = ("Elaborate help available on Gitea.\n"
         "s.neht.xyz/PyroBotHelp")
 REPO = ("Userbot is available on Gitea:\n"
-        "s.neht.xyz/PyroBot")
+        "https://github.com/MrKinauJr/pyrobot")
 
 # -- Constants End -- #
 
