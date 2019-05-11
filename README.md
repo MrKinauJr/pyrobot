@@ -19,3 +19,4 @@ A Telegram Userbot based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 * [Dan Tès](https://github.com/delivrance) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Sergey](https://t.me/flugdreka) for his [IntervalHelper](pyrobot/interval.py)[*](https://t.me/combotchat/45392)
+* [colinshark](https://t.me/ColinShark) for Pyrobot(pyrobot)[*](https://git.colinshark.de/PyroBot/PyroBot/)
