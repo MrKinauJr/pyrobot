@@ -78,9 +78,23 @@ Get information about your administration, members of your chat and all your cha
 | Command | Description | Source |
 |---------|-------------|--------|
 | `dog`, 🐕, 🐶, 🐩 | Sends an image of a dog 🐶🐕 | [random.dog](https://random.dog/)[*](https://github.com/AdenFlorian/random.dog#api) |
+| `cat`, `:cat:`, 🐱| Sends an image of a cat 🐱🐱 | [random.cat](https://random.cat/) |
 | `.mock` | Send mocking Spongebob 🧽 | [@Stickerizerbot](https://t.me/Stickerizerbot) |
 | `.ggl` | Send a Google Search 🔍 | Same as `.mock` |
 
+### Random (`randomness.py`)
+
+| Command | Description | Source |
+|---------|-------------|--------|
+| `.random` <leastAmount> <biggestAmount> | A random Number betweet set Numbers |
+| `person`, `:person:`, 👨‍ Sends an image of a Person 👨‍👨‍ | [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) |
+
+### Hastebin (`haste.py`)
+
+| Command | Description |
+|---------|-------------|
+| `.haste` <something you want to paste> | Pasting something to Hastebin.com |
+ 
 ### Miscellaneous (`misc.py`)
 
 * `.up` - Gives out the current uptime of the bot.
