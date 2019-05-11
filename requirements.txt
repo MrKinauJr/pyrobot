@@ -1,0 +1,6 @@
+requests
+pyrogram
+tgcrypto
+python-dotenv
+cloudconvert
+speedtest-cli
