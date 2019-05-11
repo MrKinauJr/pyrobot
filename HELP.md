@@ -86,9 +86,15 @@ Get information about your administration, members of your chat and all your cha
 
 | Command | Description | Source |
 |---------|-------------|--------|
-| `.random` "[leastAmount]" "[BiggestAmount]" | A random Number betweet set Numbers |
+| `.random` <leastAmount> <biggestAmount> | A random Number betweet set Numbers |
 | `person`, `:person:`, 👨‍ Sends an image of a Person 👨‍👨‍ | [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) |
 
+### Hastebin (`haste.py`)
+
+| Command | Description |
+|---------|-------------|
+| `.haste` <something you want to paste> | Pasting something to Hastebin.com |
+ 
 ### Miscellaneous (`misc.py`)
 
 * `.up` - Gives out the current uptime of the bot.
