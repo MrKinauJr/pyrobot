@@ -82,6 +82,13 @@ Get information about your administration, members of your chat and all your cha
 | `.mock` | Send mocking Spongebob 🧽 | [@Stickerizerbot](https://t.me/Stickerizerbot) |
 | `.ggl` | Send a Google Search 🔍 | Same as `.mock` |
 
+### Random (`randomness.py`)
+
+| Command | Description | Source |
+|---------|-------------|--------|
+| `.random` "[leastAmount]" "[BiggestAmount]" | A random Number betweet set Numbers |
+| `person`, `:person:`, 👨‍ Sends an image of a Person 👨‍👨‍ | [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) |
+
 ### Miscellaneous (`misc.py`)
 
 * `.up` - Gives out the current uptime of the bot.
