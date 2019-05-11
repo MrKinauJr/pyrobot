@@ -78,6 +78,7 @@ Get information about your administration, members of your chat and all your cha
 | Command | Description | Source |
 |---------|-------------|--------|
 | `dog`, 🐕, 🐶, 🐩 | Sends an image of a dog 🐶🐕 | [random.dog](https://random.dog/)[*](https://github.com/AdenFlorian/random.dog#api) |
+| `cat`, `:cat:`, 🐱| Sends an image of a cat 🐱🐱 | [random.cat](https://random.cat/) |
 | `.mock` | Send mocking Spongebob 🧽 | [@Stickerizerbot](https://t.me/Stickerizerbot) |
 | `.ggl` | Send a Google Search 🔍 | Same as `.mock` |
 
