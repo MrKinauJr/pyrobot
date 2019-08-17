@@ -34,7 +34,7 @@ def send_dog(bot: BOT, message: Message):
         message.delete()
 
 @BOT.on_message(Filters.command(["🐱", ":cat:", "cat"], "") & Filters.me)
-def send_dog(bot: BOT, message: Message):
+def send_cat(bot: BOT, message: Message):
     doggo = requests.get('http://aws.random.cat/meow').json()
     BOT.send_photo(
         chat_id=message.chat.id,
